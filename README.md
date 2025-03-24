@@ -4,4 +4,4 @@ Some description!
 
 # Added support
 
-"hello from feature branch" .
+"hello from feature branch"
